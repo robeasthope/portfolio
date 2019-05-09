@@ -3,5 +3,6 @@
     "graphql": true,
     "__PATH_PREFIX__": true
   },
-  "extends": "wesbos"
+  "extends": ["wesbos", "plugin:jest/recommended"],
+  "plugins": ["jest"]
 }
