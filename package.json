@@ -7,7 +7,12 @@
   "license": "MIT",
   "private": true,
   "devDependencies": {
+    "babel-jest": "^24.8.0",
+    "babel-preset-gatsby": "^0.1.11",
+    "identity-obj-proxy": "^3.0.0",
+    "jest": "^24.8.0",
     "lerna": "^3.13.4",
+    "react-test-renderer": "^16.8.6",
     "rimraf": "^2.6.3"
   },
   "scripts": {
