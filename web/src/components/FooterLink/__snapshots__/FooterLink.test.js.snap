@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`FooterLink renders correctly 1`] = `
+<a
+  className="sc-bdVaJa sc-ifAKCX sc-htoDjs cPtkgc"
+  color="blue"
+  href="https://www.google.com"
+>
+  Google.com
+</a>
+`;
